@@ -44,5 +44,5 @@ scores by taking the necessary step.
 
 # For Practice -- 
 
-Also will practice on various datasets but for that to get Idea 
+Also had practice on various datasets but for that to get Idea 
 about the dataset and model you need to refer to csv data and python file.
